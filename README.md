@@ -1,7 +1,7 @@
 # dcps-parcial2-base
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Respositorio base para el 2do parcial del curso de Diseño y Construcción de 
+Productos de Software. Universidad Nacional de Colombia sede Medellín. 
 
 ## Prerequisites
 
