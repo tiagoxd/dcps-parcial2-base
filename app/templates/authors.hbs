@@ -5,10 +5,15 @@
       {{#link-to 'authors.author' author.id class="link-author"}}
         {{author.username}}
       {{/link-to}}
+      <!--div>
+        {{author.firstName}}
+        {{author.lastName}}
+        {{author.email}}
+        {{author.profilePictre}}
+      </div-->
     {{/each}}
   </div>
   <div class="author-detail">
-    
     {{outlet}}
   </div>
 </div>
